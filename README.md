@@ -12,10 +12,10 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Full Stack Python**
+- 🌱 I’m currently learning **Full Stack Java**
 - 👨‍💻 All of my projects are available here 👉 [My Projects](https://dash.infinityfree.com/accounts)
 - 💬 Ask me about  
-  **HTML, CSS, JavaScript, Bootstrap, WordPress, XAMPP, Python, C++**
+  **HTML, CSS, JavaScript, Bootstrap, WordPress, XAMPP, java, Mysql**
 - 📫 How to reach me: **aratipatil356@gmail.com**
 - 📄 Know about my experiences 👉 [View My Resume](https://drive.google.com/file/d/1aR7dU_VKAJ79ovMCD7gSofBkiL9g4-3c/view?usp=drivesdk)
 
